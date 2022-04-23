@@ -4,6 +4,6 @@ def funcion(a):
 
 
 print(funcion(2))
-
+print(funcion(3))
 
 
